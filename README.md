@@ -28,17 +28,20 @@ using namespace std;
      }
 
  };
+ 
 
  void print(Node* head)
  { 
-     Node* temp = head;
-    while(temp != NULL)
+     
+ Node* temp = head;
+   while(temp != NULL)
     {
-      cout<<temp->data<<" ";
-      temp = temp -> next;
+     cout<<temp->data<<" ";
+     temp = temp -> next;
     }
 
  }
+ 
 int main() {
      
      Node* first = new Node(10);

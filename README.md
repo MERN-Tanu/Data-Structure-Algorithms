@@ -34,10 +34,14 @@ using namespace std;
  { 
      
  Node* temp = head;
-   while(temp != NULL)
+   
+ while(temp != NULL)
     {
+ 
      cout<<temp->data<<" ";
+ 
      temp = temp -> next;
+ 
     }
 
  }

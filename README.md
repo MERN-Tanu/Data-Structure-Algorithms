@@ -73,17 +73,21 @@ int main() {
  
  10 20 30 40 50
  
- -------------Insertion IN THE linkeddlist ----------------
+ -------------Insertion IN THE linkeddlist ---------------
  
- 
- #include <iostream>
+ #include<iostream>
  
 using namespace std;
  
 
-class Node {
+class   Node 
+ 
+ {
+ 
         public:
+ 
         int data;
+ 
         Node* next;
 
         Node() {

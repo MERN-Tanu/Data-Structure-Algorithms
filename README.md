@@ -300,3 +300,16 @@ int main()
 }
  
  
+ 
+ ----------------Output----------------
+ 
+ 90 60 50 20 77 
+ 
+Printing after insert at position call
+ 
+90 60 50 20 77 101 
+ 
+head: 90
+ 
+tail: 101
+ 

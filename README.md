@@ -134,9 +134,11 @@ void insertAtHead(Node* &head, Node* &tail, int data)
  
 //I want to insert a node right at the end of LINKED LIST
  
-void insertAtTail(Node* &head,Node* &tail, int data) 
+void insertAtTail(Node* &head,Node* &tail, int data)  
+ 
  {
         if(head == NULL) {
+ 
  
                 Node* newNode = new Node(data);
  
@@ -190,8 +192,11 @@ int findLength(Node* &head ) {
 }
 
 void insertAtPosition(int data, int position, Node* &head, Node* &tail) 
- {
+ 
+ { 
+ 
         if(head == NULL) {
+ 
  
                 Node* newNode = new Node(data);
  
@@ -212,6 +217,7 @@ void insertAtPosition(int data, int position, Node* &head, Node* &tail)
         }
        
         int len = findLength(head);
+ 
         
         if(position >= len) {
  

@@ -1,15 +1,15 @@
 <img width="928" alt="linkedlist_for_more_understanding" src="https://user-images.githubusercontent.com/70361516/233584444-f47339dd-a8ea-4419-8972-293e0869f815.png">
 # Data_Structure and Algorithms
 
-Topic:
+# Topic:
 
-Linkedlist : Collection of Nodes;
+# Linkedlist : Collection of Nodes;
 
 
 // How to create Node
 
-"""
 
+'''
 #include <iostream>
 using namespace std;
 
@@ -31,7 +31,7 @@ using namespace std;
      }
 
  };
- 
+ '''
 
  void print(Node* head)
  { 

@@ -9,7 +9,7 @@
 // How to create Node
 
 
-'''
+
 #include <iostream>
 using namespace std;
 
@@ -31,7 +31,7 @@ using namespace std;
      }
 
  };
- '''
+ 
 
  void print(Node* head)
  { 

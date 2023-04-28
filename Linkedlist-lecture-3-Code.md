@@ -1,5 +1,6 @@
-#Linkedlist lecture-3 code -1
-````C++
+# Linkedlist lecture-3 code -1
+C++
+```
   #include <iostream>
 using namespace std;
 
@@ -220,4 +221,4 @@ cout << "Loop is Present or not " << checkForLoop(head) << endl;
 
   return 0;
 }
-````
+```

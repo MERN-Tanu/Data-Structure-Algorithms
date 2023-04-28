@@ -6,7 +6,7 @@
  each of which contains a data element and a pointer to the next node in the list.
 
 
-Here is an example of how to implement a linked list in C++: ```
+Here is an example of how to implement a linked list in C++:
 
 ```C++
 #include <iostream>

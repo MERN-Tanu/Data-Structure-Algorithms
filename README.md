@@ -1,9 +1,9 @@
 
   # Data_Structure and Algorithms
 
-# Topic: lINKLIST LECTURE-1 CODE (BASIC)
+ Topic: lINKLIST LECTURE-1 CODE (BASIC)
 
-# Linkedlist : Collection of Nodes;
+ Linkedlist : Collection of Nodes;
 
 
 ```` C++

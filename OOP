@@ -1,5 +1,5 @@
 #cODE-1
-````C++
+
  #include <iostream>
 using namespace std;
 
@@ -49,11 +49,11 @@ int main() {
 
   return 0;
 }
-````
+
 
 #CODE-2
 
-````C++
+
 #include <iostream>
 using namespace std;
 
@@ -87,11 +87,11 @@ int main() {
   return 0;
 }
 
-````
+
 
 #CODE-3
 
-````C++
+
 #include <iostream>
 #include<vector>
 using namespace std;
@@ -107,4 +107,4 @@ int main() {
   
   return 0;
 }
-````
+

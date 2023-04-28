@@ -1,11 +1,14 @@
 
 #what is linkedlist?
 
-``` In C++, a linked list is a dynamic data structure that is commonly used to implement other data structures such as stacks, queues, and associative arrays. A linked list consists of a series of nodes, each of which contains a data element and a pointer to the next node in the list.
+ In C++, a linked list is a dynamic data structure that is commonly used to implement other data structures such as stacks,
+ queues, and associative arrays. A linked list consists of a series of nodes, 
+ each of which contains a data element and a pointer to the next node in the list.
+
 
 Here is an example of how to implement a linked list in C++: ```
 
-````C++
+```C++
 #include <iostream>
 
 using namespace std;
@@ -55,7 +58,10 @@ int main() {
 
 
 ```
-This example creates a Node class to represent each node in the list, and a LinkedList class to manage the list. The insert function inserts a new node at the beginning of the list, and the display function prints out the contents of the list.
+This example creates a Node class to represent each node in the list, and a LinkedList class to manage the list. 
+The insert function inserts a new node at the beginning of the list, 
+and the display function prints out the contents of the list.
 
-In this example, the linked list contains three nodes with the values 15, 10, and 5, in that order. The display function prints out these values in reverse order.
+In this example, the linked list contains three nodes with the values 15, 10, and 5, in that order.
+The display function prints out these values in reverse order.
 ```
